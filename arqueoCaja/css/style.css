@@ -1,0 +1,57 @@
+body {
+    padding: 40px;
+    background: rgba(216, 215, 215, 0.747);
+    align-items: center;
+}
+
+label {
+    width: 200px;
+    text-align: right;
+
+}
+
+#pie {
+    clear: both;
+}
+
+.billetes {
+
+    text-align: right;
+    float: right;
+}
+
+p {
+    display: block;
+}
+
+td {
+
+    padding-left: 10px;
+}
+
+#global {
+    display: flex;
+    justify-content: center;
+}
+
+#izq {
+    position: relative;
+    float: left;
+    padding: 10px;
+    border: solid 1px black;
+}
+
+#drch {
+    position: relative;
+    float: left;
+}
+
+input {
+    width: 80px;
+    text-align: right;
+}
+
+#calcular {
+    width: fit-content;
+
+}
